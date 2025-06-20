@@ -136,8 +136,8 @@ npm install react-native-vector-icons
 ## 👨‍💻 Author
 
 Built by **Your Name**
-GitHub: [@yourhandle](https://github.com/yourhandle)
-Twitter: [@yourhandle](https://twitter.com/yourhandle)
+GitHub: [@obiorachibuike](https://github.com/obiorachibuike)
+LinkedIn: [@obiorachibuike](https://linkedin.com/in/obiorachibuike)
 
 ---
 
